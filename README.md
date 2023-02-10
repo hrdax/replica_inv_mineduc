@@ -1,7 +1,7 @@
 # replica_inv_mineduc
 Replica de sistema_inv_mineduc_portable escrito en C++ por razones de interes de aprendizaje
 
-Este proyecto no esta pensado para uso de usuario, si no para poder aprender c++
+Este proyecto no esta pensado para uso de usuario, fue escrito por motivación de querer aprender c++
 
 Si por algún motivo quiere probarlo necesitará los siguientes requisitos
 
