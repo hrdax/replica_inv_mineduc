@@ -1,0 +1,74 @@
+  inventario.agregar.resources - Embedded, ContainedInManifestFile, 
+  inventario.confeliminar.resources - Embedded, ContainedInManifestFile, 
+  inventario.conftodo.resources - Embedded, ContainedInManifestFile, 
+  inventario.modificar.resources - Embedded, ContainedInManifestFile, 
+  inventario.principal.resources - Embedded, ContainedInManifestFile, 
+  inventario.verdatos.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly inventario, Version=1.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly MySql.Data, Version=8.0.30.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly Interop.Microsoft.Office.Interop.Excel.1.9, Version=1.9.*, Culture=Todos los idiomas (todos los países): 
+	hash=None, flags=None
+Assembly Interop.Microsoft.Office.Core.2.8, Version=2.8.*, Culture=Todos los idiomas (todos los países): 
+	hash=None, flags=None
+Class inventario.agregar: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class inventario.confeliminar: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Label lbl_conf : Public
+    System.Windows.Forms.Label lbl_id : Public
+Class inventario.conftodo: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class inventario.modificar: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Label lbl_usuariomod : Public
+    System.Windows.Forms.ComboBox modificarcbox_vwindows : Public
+    System.Windows.Forms.ComboBox modificarcbox_voffice : Public
+    System.Windows.Forms.ComboBox modificarcbox_lojack : Public
+    System.Windows.Forms.TextBox modificar_procesador : Public
+    System.Windows.Forms.TextBox modificar_espacio : Public
+    System.Windows.Forms.TextBox modificar_RAM : Public
+    System.Windows.Forms.TextBox modificar_MAC : Public
+    System.Windows.Forms.TextBox modificar_NdeEquipo : Public
+    System.Windows.Forms.TextBox modificar_usuario : Public
+    System.Windows.Forms.TextBox modificar_inventario : Public
+    System.Windows.Forms.TextBox modificar_serie : Public
+    System.Windows.Forms.TextBox modificar_modelo : Public
+    System.Windows.Forms.TextBox modificar_marca : Public
+    System.Windows.Forms.ComboBox modificarcbox_Unidad : Public
+    System.Windows.Forms.ComboBox modificarcbox_departamento : Public
+    System.Windows.Forms.TextBox modificar_rut : Public
+    System.Windows.Forms.ComboBox modificarcbox_tequipo : Public
+    System.Windows.Forms.TextBox modificar_apellidos : Public
+    System.Windows.Forms.TextBox modificar_nombres : Public
+    System.Windows.Forms.Label lbl_id : Public
+Class inventario.verdatos: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.DataGridView grid_db : Public
+  Methods:
+    Consulta(): PrivateScope, Public, HideBySig
+Class inventario.principal: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName

@@ -1,0 +1,11 @@
+C:\Users\juanp.mella\source\repos\inventario\inventario\x64\Release\inventario.vcxproj.AssemblyReference.cache
+C:\Users\juanp.mella\source\repos\inventario\inventario\x64\Release\inventario.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\juanp.mella\source\repos\inventario\inventario\x64\Release\inventario.vcxproj.ResolveComReference.cache
+C:\Users\juanp.mella\source\repos\inventario\inventario\x64\Release\inventario.agregar.resources
+C:\Users\juanp.mella\source\repos\inventario\inventario\x64\Release\inventario.confeliminar.resources
+C:\Users\juanp.mella\source\repos\inventario\inventario\x64\Release\inventario.conftodo.resources
+C:\Users\juanp.mella\source\repos\inventario\inventario\x64\Release\inventario.modificar.resources
+C:\Users\juanp.mella\source\repos\inventario\inventario\x64\Release\inventario.principal.resources
+C:\Users\juanp.mella\source\repos\inventario\inventario\x64\Release\inventario.verdatos.resources
+C:\Users\juanp.mella\source\repos\inventario\inventario\x64\Release\inventario.vcxproj.GenerateResource.cache
+C:\Users\juanp.mella\source\repos\inventario\inventario\x64\Release\inventario.vcxproj.CopyComplete

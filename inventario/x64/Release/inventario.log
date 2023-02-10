@@ -1,0 +1,27 @@
+﻿  CppCLR_WinFormsProject.cpp
+C:\Users\juanp.mella\source\repos\inventario\inventario\CppCLR_WinFormsProject.cpp(1,1): warning C4005: '__CLR_VER': redefinición de macro
+C:\Users\juanp.mella\source\repos\inventario\inventario\CppCLR_WinFormsProject.cpp(1,1): message : '__CLR_VER' declarado previamente en la línea de comandos
+C:\Users\juanp.mella\source\repos\inventario\inventario\CppCLR_WinFormsProject.cpp(1,1): warning C4651: Se especificó '/D__CLR_VER=40809037' para el encabezado precompilado pero no para la compilación actual
+  confeliminar.cpp
+C:\Users\juanp.mella\source\repos\inventario\inventario\confeliminar.cpp(1,1): warning C4005: '__CLR_VER': redefinición de macro
+C:\Users\juanp.mella\source\repos\inventario\inventario\confeliminar.cpp(1,1): message : '__CLR_VER' declarado previamente en la línea de comandos
+C:\Users\juanp.mella\source\repos\inventario\inventario\confeliminar.cpp(1,1): warning C4651: Se especificó '/D__CLR_VER=40809037' para el encabezado precompilado pero no para la compilación actual
+  conftodo.cpp
+C:\Users\juanp.mella\source\repos\inventario\inventario\conftodo.cpp(1,1): warning C4005: '__CLR_VER': redefinición de macro
+C:\Users\juanp.mella\source\repos\inventario\inventario\conftodo.cpp(1,1): message : '__CLR_VER' declarado previamente en la línea de comandos
+C:\Users\juanp.mella\source\repos\inventario\inventario\conftodo.cpp(1,1): warning C4651: Se especificó '/D__CLR_VER=40809037' para el encabezado precompilado pero no para la compilación actual
+  modificar.cpp
+C:\Users\juanp.mella\source\repos\inventario\inventario\modificar.cpp(1,1): warning C4005: '__CLR_VER': redefinición de macro
+C:\Users\juanp.mella\source\repos\inventario\inventario\modificar.cpp(1,1): message : '__CLR_VER' declarado previamente en la línea de comandos
+C:\Users\juanp.mella\source\repos\inventario\inventario\modificar.cpp(1,1): warning C4651: Se especificó '/D__CLR_VER=40809037' para el encabezado precompilado pero no para la compilación actual
+  principal.cpp
+C:\Users\juanp.mella\source\repos\inventario\inventario\principal.cpp(1,1): warning C4005: '__CLR_VER': redefinición de macro
+C:\Users\juanp.mella\source\repos\inventario\inventario\principal.cpp(1,1): message : '__CLR_VER' declarado previamente en la línea de comandos
+C:\Users\juanp.mella\source\repos\inventario\inventario\principal.cpp(1,1): warning C4651: Se especificó '/D__CLR_VER=40809037' para el encabezado precompilado pero no para la compilación actual
+  verdatos.cpp
+C:\Users\juanp.mella\source\repos\inventario\inventario\verdatos.cpp(1,1): warning C4005: '__CLR_VER': redefinición de macro
+C:\Users\juanp.mella\source\repos\inventario\inventario\verdatos.cpp(1,1): message : '__CLR_VER' declarado previamente en la línea de comandos
+C:\Users\juanp.mella\source\repos\inventario\inventario\verdatos.cpp(1,1): warning C4651: Se especificó '/D__CLR_VER=40809037' para el encabezado precompilado pero no para la compilación actual
+  Generando código...
+  agregar.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  inventario.vcxproj -> C:\Users\juanp.mella\source\repos\inventario\x64\Release\inventario.exe
